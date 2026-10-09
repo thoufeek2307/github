@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 toughest 
+=======
+hard
+>>>>>>> branch2
